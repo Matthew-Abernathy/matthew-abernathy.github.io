@@ -1,6 +1,6 @@
-title: Test
+title: Matthew Abernathy
 tagline: Student at Georgia Tech
-url: https://qzheng75.github.io/
+url: https://matthew-abernathy.github.io/
 baseurl: ""
 # gems: [jekyll-paginate]
 # paginate: 5
@@ -14,10 +14,9 @@ sass:
   style: compressed
 
 author:
-  name: Qianyu Zheng
-  url: https://qzheng75.github.io/
-  email: qzheng75@gatech.edu
-
+  name: Matthew Abernathy
+  url: https://matthew-abernathy.github.io/
+  email: mabernathy8@gatech.edu
 markdown: kramdown
 highlighter: rouge
 kramdown:
