@@ -6,7 +6,7 @@ title: Home
 <div id="intro-wrapper" class="l-text">
 	<div id="intro-title-wrapper">
 		<div id="intro-image-wrapper">
-			<img id="intro-image" src="{{ '/images/portrait.jpg' | relative_url }}">
+			<img id="intro-image" src="/images/portrait.jpg"></div>
 		<div id="intro-title-text-wrapper">
 			<h1 id="intro-title">Hi, I'm Qianyu Zheng</h1>
 			<div id="intro-subtitle">I'm a Master's Student at Georgia Tech.</div>
@@ -146,4 +146,4 @@ title: Home
 [polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau"
 [alex]: http://va.gatech.edu/endert/ "Alex Endert"
 [poloclub]: http://poloclub.gatech.edu "Polo Club of Data Science"
-[nstrf]: https://www.nasa.gov/strg/nstrf "NASA Space Technology Research Fellowship"pace Technology Research Fellowship"
+[nstrf]: https://www.nasa.gov/strg/nstrf "NASA Space Technology Research Fellowship"
