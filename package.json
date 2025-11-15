@@ -1,7 +1,7 @@
 {
-  "name": "qzheng75.github.io",
+  "name": "matthew-abernathy.github.io",
   "version": "1.0.0",
-  "description": "Qianyu Zheng's personal website.",
+  "description": " Matthew Abernathy's personal website.",
   "main": "index.js",
   "scripts": {
     "start": "bundle exec jekyll serve --livereload"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/qzheng75/qzheng75.github.io.git"
   },
-  "author": "Qianyu Zheng",
+  "author": "Matthew Abernathy, Qianyu Zheng",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/qzheng75/qzheng75.github.io/issues"
