@@ -1,6 +1,6 @@
 /* TEAM */
-	Author: Qianyu Zheng
-	X: @qianyu_zheng
+	Author: Matthew Abernathy
+	X: 
 	Location: Atlanta, GA, United States
 
 /* SITE */
