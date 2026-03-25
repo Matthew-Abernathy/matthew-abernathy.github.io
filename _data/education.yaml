@@ -29,24 +29,20 @@
 #   description:
 #     - "GPA: 4.00/4.00"
 
-- degree: "M.S. in Computer Science"
-  years: "Aug. 2025 — "
+
+
+- degree: "B.S in Chemical & Biomolecular Engineering"
+  years: "Jan. 2023 — Present "
   # years-extra: "May 2022"
   institution: "Georgia Institute of Technology"
   location: "Atlanta, GA"
-  # description:
-  #   - "GPA: 4.00/4.00"
-  #   - "Thesis Committee: Duen Horng (Polo) Chau, Alex Endert, Chao Zhang, Nathan Hodas, Scott Davidoff, Steven Drucker"
   institution-url: https://www.gatech.edu/
 
-- degree: "B.S. in Computer Science"
-  years: "Aug. 2022 — May 2025"
-  # years-extra: "May 2025 (Est.)"
+- degree: "B.S. in Applied Languages & Intercultural Studies"
+  years: "Aug. 2024 -Present"
   institution: "Georgia Institute of Technology"
   location: "Atlanta, GA"
-  # thesis: "3D Printing the Trefoil Knot and its Pages"
-  # thesis-link: ../projects/3d-printing-the-trefoil-knot-and-its-pages/
-  # thesis-pdf: ../papers/fred-hohman-undergrad-thesis.pdf
   description: 
-    - "Current GPA: 4.00/4.00"
+    - "Focused on the German Language and Culture"
   institution-url: https://www.gatech.edu//
+
